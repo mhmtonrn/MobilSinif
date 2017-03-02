@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "192711347945",
+    "firebase_url": "https://mobilsinif-53d35.firebaseio.com",
+    "project_id": "mobilsinif-53d35",
+    "storage_bucket": "mobilsinif-53d35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192711347945:android:f7a88bc09848bee8",
+        "android_client_info": {
+          "package_name": "com.softengine.dudu.mobilsinif"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "192711347945-k3u2q0b5fsndp3lvusesjdn9r9i9j93q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.softengine.dudu.mobilsinif",
+            "certificate_hash": "2F63B80D8D9240E77FB884905C3B8A9551EB25AA"
+          }
+        },
+        {
+          "client_id": "192711347945-0mdefkgca9tdq00cgbk5icqi4vkcb2a5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwVHxxpZbhmeOWkNA-0jsj6X5CNdAD8LE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "192711347945-0mdefkgca9tdq00cgbk5icqi4vkcb2a5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
