@@ -19,7 +19,7 @@ public class ExampleInstrumentedTest {
     @Test
     public void useAppContext() throws Exception {
         // Context of the app under test.
-        //edited
+        //edited test
         Context appContext = InstrumentationRegistry.getTargetContext();
 
         assertEquals("com.softengine.dudu.mobilsinif", appContext.getPackageName());
